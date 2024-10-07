@@ -1,13 +1,13 @@
-# online-shopping-website-in-php
+# Cycle-Shop-website-in-php
 
-Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
+cycle Shopping Cart System is the Simple shopping Solution. It’s a full-featured website and shopping cart system that bends over backwards to give you the flexibility you need to runyour online store.
 
 The basic concept of the application is to allow the customer to shop virtually using the Internet and allow customers to buy the items and articles of their desire from the store.
 
 The information pertaining to the products are stores on an RDBMS at the server side (store). The Server process the customers and the items are shipped to the address submitted by them. The details of the items are brought forward from the database for the customer view based on the selection through the menu and the database of all the products are updated at the end of each transaction.
 
-What is Shopping Cart system ?
-Online shopping is a form of electronic shopping store where the buyer is directly online to the seller’s computer usually via the internet. There is no intermediary service. The sale and purchase transaction is
+What is cycle Shopping Cart system ?
+Online cycle  shop is a form of electronic shopping store where the buyer is directly online to the seller’s computer usually via the internet. There is no intermediary service. The sale and purchase transaction is
 completed electronically and interactively in real- time.
 
 The development of this new system contains the following activities, which try to develop on- line
